@@ -1,2 +1,3 @@
 # BigDataCource
-Big data course - Andrii Taborovskyi
+Pavlo Malovanniy
+
